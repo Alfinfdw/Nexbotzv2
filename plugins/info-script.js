@@ -21,7 +21,7 @@ Nurutomo
 Yt Maxxy Botz 
 BochilGaming`
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/6285237596750'}},
+    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/6285608468994'}},
 ]
 let tm = {
 text: text,
