@@ -36,26 +36,26 @@ global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085792429140'
-global.povo = '085738153140'
-global.pgopay = '085792429140'
-global.ppulsa = '085792429140'
-global.ppulsa2 = '085792429140'
-global.psaweria = '085792429140'
+global.pdana = '085608468994'
+global.povo = '085608468994'
+global.pgopay = '085608468994'
+global.ppulsa = '085608468994'
+global.ppulsa2 = '085608468994'
+global.psaweria = '085608468994'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285792429140'
-global.nomorown = '6285237596750'
-global.namebot = 'DityaBotz'
-global.nameown = 'Dityaastawa'
+global.nomorbot = '6285608468994'
+global.nomorown = '6285608468994'
+global.namebot = 'DAisukiBotz'
+global.nameown = 'DAisuki'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285237596750'],
-  ['6285237596750'],
-  ['6285237596750'],
-  ['6285237596750', 'Ditya', true]
+  ['6285608468994'],
+  ['6285608468994'],
+  ['6285608468994'],
+  ['6285608468994', 'Daisuki', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,16 +105,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By DityaBotz' //Main Watermark
-global.wm2 = 'Dityabotz'
-global.wm3 = 'DityaBotz | By NexEp'
+global.wm = 'By DAisukiBotz' //Main Watermark
+global.wm2 = 'DAisukiBotz'
+global.wm3 = 'DAisukiBotz | By DAisuki'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `DityaBotz | ʙʏ ${global.nameown}`
-global.author = 'Ditya' 
-global.packname = 'Ditya'
+global.author = 'DAisuki' 
+global.packname = 'DAisuki'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Mei 29 2023'
+global.ultahowner = 'Agustus 29 2023'
 
 
 /*============== LOGO ==============*/
